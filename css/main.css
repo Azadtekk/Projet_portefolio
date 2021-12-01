@@ -1,0 +1,29 @@
+html {
+    font-size: 62,5%;
+}
+body{
+    font: 1.6rem sans-serif; /*16px */
+    margin: 0;
+}
+h1,h2,p,ol,figure{
+    margin: 1;
+    padding: 0;
+    list-style-type: none;
+}
+h1,h2{
+    font-weight: normal;
+}
+img{
+    width: 100px;
+    height: 100px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+h2{
+    color: rgb(255, 0, 98);
+    
+}
+#selfie{
+    width: 56px;
+    height: 44px;
+}
